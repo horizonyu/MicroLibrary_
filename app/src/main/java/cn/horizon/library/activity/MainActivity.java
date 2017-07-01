@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             switch (msg.what) {
-
+                //添加注释
                 case 0:
                     Toast.makeText(mContext, "用户名或密码有误！", Toast.LENGTH_SHORT).show();
                     break;
