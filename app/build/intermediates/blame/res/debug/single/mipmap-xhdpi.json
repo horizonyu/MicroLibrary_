@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\xxx.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-xhdpi\\xxx.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\bbb.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-xhdpi\\bbb.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\rrr.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-xhdpi\\rrr.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\library_logo.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-xhdpi\\library_logo.png"
+    }
+]
