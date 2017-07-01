@@ -231,7 +231,11 @@ public class HttpUtils {
                             });
                 } else {
                     //用户名或密码有误
-                    Toast.makeText(context, "用户名或密码有误", Toast.LENGTH_SHORT).show();
+                    Message msg = new Message();
+                    msg.what = 0;
+                    mHandler.sendMessage(msg);
+
+//                    Toast.makeText(context, "用户名或密码有误", Toast.LENGTH_SHORT).show();
 
                 }
             }

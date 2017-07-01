@@ -19,6 +19,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -52,6 +53,9 @@ public class MainActivity extends AppCompatActivity {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             switch (msg.what) {
+                case 0:
+                    Toast.makeText(mContext, "用户名或密码有误！", Toast.LENGTH_SHORT).show();
+                    break;
                 case 1:
                     map = (Map<String, String>) msg.obj;
                     handle_response_login(map, mContext);
