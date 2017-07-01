@@ -1,4 +1,4 @@
-#Tue Jun 27 15:32:04 CST 2017
+#Sat Jul 01 21:36:09 CST 2017
 file.9=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\core-3.2.1_5b231b8ad8a7f98d7aa207c235b5887b987a86c4\\classes.dex
 base.10=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_92bac2423e06f73d4bf46e30ae8a8d4fccd404ca
 file.8=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\zbar_c4bd431f3f967d5c927a70937971e4ff46c26831\\classes.dex

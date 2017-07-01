@@ -12,16 +12,12 @@
         "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\notification_bg.xml"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_adapter_divider_shape.xml",
@@ -180,10 +176,6 @@
         "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -216,20 +208,12 @@
         "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\drawable\\bg.png"
     },
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_pp_rotate_progress_bar.xml",
         "source": "C:\\Users\\horizon\\.android\\build-cache\\7c04b6cadc5f6b3161f5733715a503c247fa6d92\\output\\res\\drawable\\bga_pp_rotate_progress_bar.xml"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",

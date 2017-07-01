@@ -1,17 +1,5 @@
 [
     {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_search.png",
-        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
-    },
-    {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_alert.png",
-        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_alert.png"
-    },
-    {
-        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_favorite.png",
-        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite.png"
-    },
-    {
         "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\plus_x.png",
         "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\drawable-xxxhdpi\\plus_x.png"
     },
