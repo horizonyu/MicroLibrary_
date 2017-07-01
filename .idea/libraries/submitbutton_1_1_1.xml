@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="submitbutton-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/3d887976712c0a2cbdc347b59d19e0e4de7a2ce6/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3d887976712c0a2cbdc347b59d19e0e4de7a2ce6/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.unstoppable/submitbutton/1.1.1/cfb48fc81575660cd0e308d1dee5f82ad6a2de77/submitbutton-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
