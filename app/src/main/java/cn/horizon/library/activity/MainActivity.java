@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 case 0:
                     Toast.makeText(mContext, "用户名或密码有误！", Toast.LENGTH_SHORT).show();
                     break;
+
                 case 1:
                     map = (Map<String, String>) msg.obj;
                     handle_response_login(map, mContext);
