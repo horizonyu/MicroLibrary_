@@ -1,4 +1,4 @@
-#Mon Jul 03 14:06:23 CST 2017
+#Mon Jul 03 14:11:44 CST 2017
 base.0=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

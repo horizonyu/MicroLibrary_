@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 03 14:06:25 CST 2017
+#Mon Jul 03 14:11:46 CST 2017
 20.base=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\resources-release.ap_
 143.base=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\resources-release.ap_
 493.base=E\:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\resources-release.ap_
