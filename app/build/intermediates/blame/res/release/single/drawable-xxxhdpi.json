@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\scan_icon_scanline.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\drawable-xxxhdpi\\scan_icon_scanline.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\plus.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\drawable-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\plus_x.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\drawable-xxxhdpi\\plus_x.png"
+    }
+]

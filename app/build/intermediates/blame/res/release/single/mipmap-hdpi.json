@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_action_tick.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_tick.png"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_action_close.png",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_close.png"
+    }
+]

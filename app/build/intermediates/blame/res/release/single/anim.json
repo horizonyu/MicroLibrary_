@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\from_left.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\from_left.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\to_right.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\to_right.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_left.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\from_up.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\from_up.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\to_down.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\to_down.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\from_down.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\from_down.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\to_left.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\to_left.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\to_up.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\to_up.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\991ad20c0ada20b962c8dde134d3ed1702a90a80\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_top.xml",
+        "source": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\src\\main\\res\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\projects\\Android_Studio_projects\\MicroLibrary_Newest_Copy\\app\\build\\intermediates\\res\\merged\\release\\anim\\from_right.xml",
+        "source": "C:\\Users\\horizon\\.android\\build-cache\\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\\output\\res\\anim\\from_right.xml"
+    }
+]

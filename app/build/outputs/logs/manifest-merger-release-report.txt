@@ -1,0 +1,198 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:11:5-81
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.VIBRATE
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:14:22-63
+application
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:16:5-37:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\horizon\.android\build-cache\6811857cd525642b777d5a519db032b30d29fcd1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\horizon\.android\build-cache\eab8d18c90700bd60d62e97ba7199a2003283f14\output\AndroidManifest.xml:26:5-20
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:14:5-39:19
+MERGED from [com.github.droidbyme:DroidDialog:d4b5af0f48] C:\Users\horizon\.android\build-cache\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\horizon\.android\build-cache\31c0d9f74902ec073c80f054124bba5c2d518ce6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.unstoppable:submitbutton:1.1.1] C:\Users\horizon\.android\build-cache\3d887976712c0a2cbdc347b59d19e0e4de7a2ce6\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.pirrip90:ScrollTextView:1.0.0] C:\Users\horizon\.android\build-cache\5c25938f39ffec195b6225db9554847a6098d1ca\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\horizon\.android\build-cache\991ad20c0ada20b962c8dde134d3ed1702a90a80\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\horizon\.android\build-cache\4f3a8c8a24ebf09bf282723780a38f1bebca0f12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\horizon\.android\build-cache\5458f40608c7790f1a4a403cf22e74ad07f2da10\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\horizon\.android\build-cache\c4fe4b991646676c9976b7adddce859efe00634b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\horizon\.android\build-cache\44c7c15545d57f0a437805470b046a6eb47a0b62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\horizon\.android\build-cache\c44afd25d9e208517a7ca79df74d828cd32e8489\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\5f7c38f2c0d89e1c2410371df42ce9bbc60edaac\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\0637d7aef00602b8f3e221f52930bdbe64dedcfb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\horizon\.android\build-cache\cb002949d681bf641c7e781228bfc874fc72d282\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:20:9-35
+	android:allowBackup
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:18:9-44
+	android:theme
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:21:9-40
+activity#cn.horizon.library.activity.MainActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:22:19-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:26:27-74
+activity#cn.horizon.library.activity.RegisterActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:30:9-32:50
+	android:theme
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:31:13-72
+activity#cn.horizon.library.activity.LoginSuccessActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:9-85
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:19-82
+activity#cn.horizon.library.activity.BorrowActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:34:9-79
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:34:19-76
+activity#cn.horizon.library.activity.ReturnActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:9-79
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:19-76
+activity#cn.horizon.library.activity.PayActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:36:9-85
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:36:19-73
+uses-sdk
+INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] C:\Users\horizon\.android\build-cache\675328c93bdfd33c2bed77f39c53c6fd44af0fff\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\horizon\.android\build-cache\645351128928a0c7e5632ac776e4cd33b7ba5395\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\horizon\.android\build-cache\6811857cd525642b777d5a519db032b30d29fcd1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\horizon\.android\build-cache\eab8d18c90700bd60d62e97ba7199a2003283f14\output\AndroidManifest.xml:20:5-43
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.7] C:\Users\horizon\.android\build-cache\d6b8f494b8fd01cdb86acaecc451b0f325bd29ca\output\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-zbar:1.1.7] C:\Users\horizon\.android\build-cache\066aab57a8dddd95162de03500b75bddcb1c2ea0\output\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:6:5-9:46
+MERGED from [cn.bingoogolapple:bga-adapter:1.1.8] C:\Users\horizon\.android\build-cache\d817e62591319dad045613848ce371c0e245740a\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\horizon\.android\build-cache\6b71b6b8787e54ad322614b3dea58bf31e82934d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.droidbyme:DroidDialog:d4b5af0f48] C:\Users\horizon\.android\build-cache\a06341afc1dc5a70c16aabb31ace8a1de25ce0b2\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\horizon\.android\build-cache\31c0d9f74902ec073c80f054124bba5c2d518ce6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.unstoppable:submitbutton:1.1.1] C:\Users\horizon\.android\build-cache\3d887976712c0a2cbdc347b59d19e0e4de7a2ce6\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.imangazalievm:circlemenu:1.0.3] C:\Users\horizon\.android\build-cache\7ceeeab6e1023ca76f79f7964921c15792e4e67e\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.pirrip90:ScrollTextView:1.0.0] C:\Users\horizon\.android\build-cache\5c25938f39ffec195b6225db9554847a6098d1ca\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\horizon\.android\build-cache\991ad20c0ada20b962c8dde134d3ed1702a90a80\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\horizon\.android\build-cache\4f3a8c8a24ebf09bf282723780a38f1bebca0f12\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\horizon\.android\build-cache\5458f40608c7790f1a4a403cf22e74ad07f2da10\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\horizon\.android\build-cache\c4fe4b991646676c9976b7adddce859efe00634b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\horizon\.android\build-cache\44c7c15545d57f0a437805470b046a6eb47a0b62\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\horizon\.android\build-cache\c44afd25d9e208517a7ca79df74d828cd32e8489\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\5f7c38f2c0d89e1c2410371df42ce9bbc60edaac\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\0637d7aef00602b8f3e221f52930bdbe64dedcfb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\horizon\.android\build-cache\cb002949d681bf641c7e781228bfc874fc72d282\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\horizon\.android\build-cache\645351128928a0c7e5632ac776e4cd33b7ba5395\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\horizon\.android\build-cache\6811857cd525642b777d5a519db032b30d29fcd1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\horizon\.android\build-cache\eab8d18c90700bd60d62e97ba7199a2003283f14\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\horizon\.android\build-cache\991ad20c0ada20b962c8dde134d3ed1702a90a80\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\horizon\.android\build-cache\4f3a8c8a24ebf09bf282723780a38f1bebca0f12\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\horizon\.android\build-cache\5458f40608c7790f1a4a403cf22e74ad07f2da10\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\horizon\.android\build-cache\c4fe4b991646676c9976b7adddce859efe00634b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\horizon\.android\build-cache\44c7c15545d57f0a437805470b046a6eb47a0b62\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\horizon\.android\build-cache\c44afd25d9e208517a7ca79df74d828cd32e8489\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\5f7c38f2c0d89e1c2410371df42ce9bbc60edaac\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\horizon\.android\build-cache\0637d7aef00602b8f3e221f52930bdbe64dedcfb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\horizon\.android\build-cache\cb002949d681bf641c7e781228bfc874fc72d282\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:26:9-47
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:17:9-22:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:20:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:22:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:19:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:21:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:18:13-90
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:25:9-30:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:28:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:30:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:27:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:29:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:26:13-89
+activity#cn.bingoogolapple.photopicker.activity.BGAPhotoPickerPreviewActivity
+ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:33:9-38:63
+	android:screenOrientation
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:36:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:38:13-60
+	android:configChanges
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:37:13-46
+	android:name
+		ADDED from [cn.bingoogolapple:bga-photopicker:1.2.3] C:\Users\horizon\.android\build-cache\7c04b6cadc5f6b3161f5733715a503c247fa6d92\output\AndroidManifest.xml:34:13-96
