@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml
@@ -44,7 +44,7 @@ ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\
 	android:name
 		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:14:22-63
 application
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:16:5-36:19
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:16:5-37:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\horizon\.android\build-cache\8d4b6c5ccc2e367eef01d3f682e3bc8416034cc1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\horizon\.android\build-cache\6811857cd525642b777d5a519db032b30d29fcd1\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\horizon\.android\build-cache\eab8d18c90700bd60d62e97ba7199a2003283f14\output\AndroidManifest.xml:26:5-20
@@ -87,27 +87,27 @@ ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\
 	android:name
 		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:26:27-74
 activity#cn.horizon.library.activity.RegisterActivity
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:29:9-31:50
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:30:9-32:50
 	android:theme
-		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:31:13-47
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:32:13-47
 	android:name
-		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:30:13-72
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:31:13-72
 activity#cn.horizon.library.activity.LoginSuccessActivity
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:32:9-85
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:9-85
 	android:name
-		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:32:19-82
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:19-82
 activity#cn.horizon.library.activity.BorrowActivity
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:9-79
-	android:name
-		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:33:19-76
-activity#cn.horizon.library.activity.ReturnActivity
 ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:34:9-79
 	android:name
 		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:34:19-76
-activity#cn.horizon.library.activity.PayActivity
-ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:9-85
+activity#cn.horizon.library.activity.ReturnActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:9-79
 	android:name
-		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:19-73
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:35:19-76
+activity#cn.horizon.library.activity.PayActivity
+ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:36:9-85
+	android:name
+		ADDED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml:36:19-73
 uses-sdk
 INJECTED from E:\projects\Android_Studio_projects\MicroLibrary_Newest_Copy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] C:\Users\horizon\.android\build-cache\675328c93bdfd33c2bed77f39c53c6fd44af0fff\output\AndroidManifest.xml:6:5-8:41
