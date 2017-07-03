@@ -28,3 +28,5 @@
       
 ### utils:
       HttpUtils.java: 工具类，主要负责网络请求处理。
+
+### 此软件基于android 5.1  sdk 25
